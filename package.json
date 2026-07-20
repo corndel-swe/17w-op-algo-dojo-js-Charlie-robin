@@ -7,7 +7,7 @@
   "scripts": {
     "test": "mocha",
     "test-all" : "mocha **/*.test.js"
-  },``
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
